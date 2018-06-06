@@ -4,4 +4,4 @@ Opportunities in Machine Learning for Healthcare [[paper](https://arxiv.org/abs/
 
 Self-Attention Generative Adversarial Networks [[paper](https://arxiv.org/abs/1805.08318)]
 
-Navigating with grid-like representations in artificial agents [[paper](https://www.nature.com/articles/d41586-018-05133-w)] [[blog post](https://deepmind.com/blog/grid-cells/)]
+Navigating with grid-like representations in artificial agents [[paper](https://www.nature.com/articles/d41586-018-05133-w)] [[blog post](https://deepmind.com/blog/grid-cells/)] [[review](https://f1000.com/prime/733198068?key=nvlnlWetE8dlZTy)]
